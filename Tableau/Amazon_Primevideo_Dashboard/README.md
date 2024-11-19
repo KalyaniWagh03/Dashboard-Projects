@@ -57,13 +57,6 @@
 2. **Predictive Modeling:** Develop predictive models to forecast future content trends and viewer preferences.
 3. **Continuous Monitoring:** Implement a system to update and monitor the dataset for emerging trends continuously.
 
-### Tableau Public Dashboard
-
-*You can view and interact with the dashboard on my Tableau Public profile*
-
-Click [here](https://public.tableau.com/app/profile/duygu.jones/viz/PrimeVideo1/Dashboard1) to visit my Tableau Public profile and explore the dashboard.
-
-![here](https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/TABLEAU/PrimeVideo-Tableau-Dashboard/PrimeVideo_Tableau_Dashboard.png)
 
 
 ## Acknowledgements
@@ -73,16 +66,14 @@ This dataset is compiled for analytical and educational purposes.
 
 ## About Me
 
-I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis, and machine learning. <br>
+I'm Kalyani Wagh, a Data Scientist, passionate about data visualization, analysis, and machine learning. <br>
 
 You can find more about me and my work through the following links:
 
-- **Website**: [duygujones.vercel.app](https://duygujones.vercel.app/)
-- **LinkedIn**: [linkedin.com/in/duygujones](https://www.linkedin.com/in/duygujones/)
-- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
-- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
-- **Tableau Public**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
+
+- **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/kalyani-wagh-3b0985200/)
+- **GitHub**: [github.com](https://github.com/KalyaniWagh03)
+
 
 Feel free to connect with me!<br>
 
@@ -92,9 +83,3 @@ Feel free to connect with me!<br>
 ✨If you find this repository helpful, don't forget to give it a star✨.<br>
 
 Happy Trails!👩‍💻✨
-
----
-
-##### License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
