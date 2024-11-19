@@ -69,8 +69,8 @@ I'm Kalyani Wagh, a Data Scientist, passionate about data visualization, analysi
 
 You can find more about me and my work through the following links:
 
-- **LinkedIn**: [linkedin.com/in/duygujones](https://www.linkedin.com/in/kalyani-wagh-3b0985200/)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/KalyaniWagh03)
+- **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/kalyani-wagh-3b0985200/)
+- **GitHub**: [github.com](https://github.com/KalyaniWagh03)
 
 Feel free to connect with me!<br>
 
