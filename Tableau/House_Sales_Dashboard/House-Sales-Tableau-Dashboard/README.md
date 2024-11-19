@@ -16,13 +16,6 @@
 - This dataset helps identify the impact of different property attributes on house prices, the effect of location, and other factors correlating with the value of homes. 
 - How can we use this data to predict future trends and make strategic decisions in the real estate market?
 
-### Tableau Public Dashboard
-
-*You can view and interact with the dashboard on my Tableau Public profile.* 
-Click [here](https://public.tableau.com/app/profile/duygu.jones/viz/KingCountyWashingtonHouseSalesDashboard_17146621211640/CountyWashingtonHouseSalesDashboard2) to explore the dashboard.
-
-![](https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/TABLEAU/House-Sales-Tableau-Dashboard/House_Sales_Tableau_Dashboard.png)
-
 
 ### Methodology:
 
@@ -69,16 +62,14 @@ This dataset is compiled for analytical and educational purposes.
 
 ## About Me
 
-I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis, and machine learning. <br>
+I'm Kalyani Wagh, a Data Scientist, passionate about data visualization, analysis, and machine learning. <br>
 
 You can find more about me and my work through the following links:
 
-- **Website**: [duygujones.vercel.app](https://duygujones.vercel.app/)
-- **LinkedIn**: [linkedin.com/in/duygujones](https://www.linkedin.com/in/duygujones/)
-- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
-- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
-- **Tableau Public**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
+
+- **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/kalyani-wagh-3b0985200/)
+- **GitHub**: [github.com](https://github.com/KalyaniWagh03)
+
 
 Feel free to connect with me!<br>
 
@@ -88,9 +79,3 @@ Feel free to connect with me!<br>
 ✨If you find this repository helpful, don't forget to give it a star✨.<br>
 
 Happy Trails!👩‍💻✨
-
----
-
-##### License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
