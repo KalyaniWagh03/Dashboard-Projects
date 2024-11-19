@@ -46,12 +46,12 @@ It provides insights into the performance of different car brands and their top 
 - **Yearly Sales Trend**: Analysis of sales trends from 2006 to 2016, highlighting key performance changes over the years.
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_03_Car_Sales_Analysis/01-Car-Sales-Dashboard.png">
+  <img src="https://github.com/KalyaniWagh03/Dashboard_Projects/blob/main/POWER_BI/POWERBI_03_Car_Sales_Analysis/01-Car-Sales-Dashboard.png">
 </p>
 
 ### Thank you...
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_03_Car_Sales_Analysis/Analysis%20END.png">
+  <img src="https://github.com/KalyaniWagh03/Dashboard_Projects/blob/main/POWER_BI/POWERBI_03_Car_Sales_Analysis/Analysis%20END.png">
 </p>
 
 ### Conclusion
